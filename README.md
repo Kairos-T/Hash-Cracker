@@ -1,6 +1,6 @@
 # Hash Cracker
 
-Python script that attempts to crack password hashes using various hash algorithms and a dictionary of possible passwords. It supports bcrypt, SHA-256, and MD5 hash algorithms. This tool is intended for educational and ethical purposes, such as testing the security of your own systems or improving your understanding of password hashing.
+Python script that attempts to crack password hashes using various hash algorithms and a dictionary of possible passwords. It supports bcrypt, SHA-256, and MD5 hash algorithms.
 
 ## Table of Contents
 
